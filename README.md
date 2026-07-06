@@ -33,5 +33,5 @@ com pipeline de CI/CD via GitHub Actions.
 
 ## 📫 Contato
 
-- LinkedIn: [seu link]
-- E-mail: [seu e-mail]
+- LinkedIn: [https://www.linkedin.com/in/jos%C3%A9-carlos-rebou%C3%A7as-neto-ab8b43275/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs8xDIFgMTHKG%2BLyB6w8dzQ%3D%3D]
+- E-mail: [josecareboucas@gmail.com]
