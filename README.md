@@ -1,4 +1,4 @@
-# Olá, sou o Zeca 👋
+# Olá, sou o José Carlos 👋
 
 Software Engineer Full Stack, formado em Engenharia de Software pelo Inatel 
 (Instituto Nacional de Telecomunicações). Trabalho com backend e frontend, 
